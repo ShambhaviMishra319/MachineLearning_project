@@ -1,0 +1,2 @@
+## The __init__.py file is used to mark a directory as a Python package, so Python knows that the directory should be treated as a package. Without this file, Python would not recognize the directory as part of a package, and importing modules from that directory would not work as expected.
+##  When Python encounters a directory with an __init__.py file, it treats the directory as a package. This allows you to import modules or submodules within the directory.
